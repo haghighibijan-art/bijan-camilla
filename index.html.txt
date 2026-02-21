@@ -1,0 +1,89 @@
+<!DOCTYPE html>
+<html lang="it">
+<head>
+    <meta charset="UTF-8">
+    <title>Bijan & Camilla</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@400;500&family=Inter:wght@300;400&display=swap" rel="stylesheet">
+    <style>
+        body {
+            margin: 0;
+            padding: 0;
+            font-family: 'Inter', sans-serif;
+            background-color: #ffffff;
+            color: #1a1a1a;
+            text-align: center;
+        }
+        .container {
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 80px 24px;
+        }
+        h1 {
+            font-family: 'Cormorant Garamond', serif;
+            font-weight: 500;
+            font-size: 42px;
+            margin-bottom: 16px;
+        }
+        h2 {
+            font-family: 'Cormorant Garamond', serif;
+            font-weight: 400;
+            font-size: 28px;
+            margin-top: 48px;
+            margin-bottom: 12px;
+        }
+        p {
+            font-size: 16px;
+            line-height: 1.6;
+            margin: 6px 0;
+        }
+        .divider {
+            margin: 40px 0;
+            font-family: 'Cormorant Garamond', serif;
+            font-size: 20px;
+        }
+        footer {
+            margin-top: 60px;
+            font-size: 14px;
+        }
+        a {
+            color: inherit;
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+
+        <h1>Bijan & Camilla</h1>
+        <p>si sposano</p>
+
+        <h2>Cerimonia</h2>
+        <p>Sabato</p>
+        <p><strong>13 giugno 2026</strong></p>
+        <p>ore <strong>9.00</strong></p>
+
+        <p>presso</p>
+        <p><strong>Comune di Firenze</strong></p>
+        <p><a href="https://www.google.com/maps/search/Comune+di+Firenze" target="_blank">Apri in Google Maps</a></p>
+
+        <div class="divider">❦</div>
+
+        <p>
+            Con gioia desideriamo condividere<br>
+            questo momento con voi.
+        </p>
+
+        <h2>Informazioni utili</h2>
+        <p>Si consiglia di arrivare con qualche minuto di anticipo.</p>
+        <p>Abbigliamento: elegante / formale.</p>
+        <p>Seguiranno indicazioni per il ricevimento.</p>
+
+        <footer>
+            <p>Bijan & Camilla</p>
+            <p>13 · 06 · 2026</p>
+        </footer>
+
+    </div>
+</body>
+</html>
